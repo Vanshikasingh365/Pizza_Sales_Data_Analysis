@@ -12,7 +12,7 @@ This project explores sales data from a fictional pizza store to derive meaningf
 
 - Microsoft SQL Server
 - Excel
-- (Optional) Power BI for dashboarding
+  
 
 ##  Key Business Questions Answered
 
